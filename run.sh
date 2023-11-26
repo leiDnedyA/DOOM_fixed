@@ -10,7 +10,7 @@ make
 
 cd linux/
 
-curl -O https://distro.ibiblio.org/slitaz/sources/packages/d/doom1.wad # download the shareware wad
+# curl -O https://distro.ibiblio.org/slitaz/sources/packages/d/doom1.wad # download the shareware wad
 
 DISPLAY=:2
 
